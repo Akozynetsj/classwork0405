@@ -8,5 +8,4 @@ class Student:
 oleg = Student()
 print(oleg.height)
 masha = Student(height = 200)
-print(masha.height
-      )
+print(masha.height)
